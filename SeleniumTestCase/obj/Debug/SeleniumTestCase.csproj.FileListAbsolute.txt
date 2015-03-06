@@ -16,6 +16,5 @@ D:\WebAutomation\SeleniumTestCase\SeleniumTestCase\bin\WebDriver.pdb
 D:\WebAutomation\SeleniumTestCase\SeleniumTestCase\bin\WebDriver.xml
 D:\WebAutomation\SeleniumTestCase\SeleniumTestCase\bin\WebDriver.Support.pdb
 D:\WebAutomation\SeleniumTestCase\SeleniumTestCase\bin\WebDriver.Support.xml
-D:\WebAutomation\SeleniumTestCase\SeleniumTestCase\obj\Debug\SeleniumTestCase.csprojResolveAssemblyReference.cache
 D:\WebAutomation\SeleniumTestCase\SeleniumTestCase\obj\Debug\SeleniumTestCase.dll
 D:\WebAutomation\SeleniumTestCase\SeleniumTestCase\obj\Debug\SeleniumTestCase.pdb
