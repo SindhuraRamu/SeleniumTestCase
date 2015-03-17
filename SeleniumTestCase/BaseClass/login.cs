@@ -12,7 +12,7 @@ namespace SeleniumTestCase
             
             public static void loginmethod(IWebDriver driver, String userName, String pwd)
             {
-                driver.Navigate().GoToUrl("selenium.docflock.com/");
+                driver.Navigate().GoToUrl("test.docflock.com/");
                 driver.Manage().Window.Maximize();
                 driver.Manage().Timeouts().SetPageLoadTimeout(TimeSpan.FromSeconds(3000));
 
